@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DevTeamsRepo/1.0.0": {
+        "runtime": {
+          "DevTeamsRepo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DevTeamsRepo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

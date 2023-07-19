@@ -1,0 +1,12 @@
+/Users/jacksonquick/Projects/dev-teams/DevTeamsRepo/bin/Debug/net6.0/DevTeamsRepo.deps.json
+/Users/jacksonquick/Projects/dev-teams/DevTeamsRepo/bin/Debug/net6.0/DevTeamsRepo.dll
+/Users/jacksonquick/Projects/dev-teams/DevTeamsRepo/bin/Debug/net6.0/DevTeamsRepo.pdb
+/Users/jacksonquick/Projects/dev-teams/DevTeamsRepo/obj/Debug/net6.0/DevTeamsRepo.csproj.AssemblyReference.cache
+/Users/jacksonquick/Projects/dev-teams/DevTeamsRepo/obj/Debug/net6.0/DevTeamsRepo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jacksonquick/Projects/dev-teams/DevTeamsRepo/obj/Debug/net6.0/DevTeamsRepo.AssemblyInfoInputs.cache
+/Users/jacksonquick/Projects/dev-teams/DevTeamsRepo/obj/Debug/net6.0/DevTeamsRepo.AssemblyInfo.cs
+/Users/jacksonquick/Projects/dev-teams/DevTeamsRepo/obj/Debug/net6.0/DevTeamsRepo.csproj.CoreCompileInputs.cache
+/Users/jacksonquick/Projects/dev-teams/DevTeamsRepo/obj/Debug/net6.0/DevTeamsRepo.dll
+/Users/jacksonquick/Projects/dev-teams/DevTeamsRepo/obj/Debug/net6.0/refint/DevTeamsRepo.dll
+/Users/jacksonquick/Projects/dev-teams/DevTeamsRepo/obj/Debug/net6.0/DevTeamsRepo.pdb
+/Users/jacksonquick/Projects/dev-teams/DevTeamsRepo/obj/Debug/net6.0/ref/DevTeamsRepo.dll

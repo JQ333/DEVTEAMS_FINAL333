@@ -1,0 +1,120 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/jacksonquick/Projects/dev-teams/DevRepoUI/DevRepoUI.csproj": {}
+  },
+  "projects": {
+    "/Users/jacksonquick/Projects/dev-teams/DevRepoUI/DevRepoUI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jacksonquick/Projects/dev-teams/DevRepoUI/DevRepoUI.csproj",
+        "projectName": "DevRepoUI",
+        "projectPath": "/Users/jacksonquick/Projects/dev-teams/DevRepoUI/DevRepoUI.csproj",
+        "packagesPath": "/Users/jacksonquick/.nuget/packages/",
+        "outputPath": "/Users/jacksonquick/Projects/dev-teams/DevRepoUI/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/jacksonquick/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/jacksonquick/Projects/dev-teams/DevTeamsRepo/DevTeamsRepo.csproj": {
+                "projectPath": "/Users/jacksonquick/Projects/dev-teams/DevTeamsRepo/DevTeamsRepo.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.304/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/jacksonquick/Projects/dev-teams/DevTeamsRepo/DevTeamsRepo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jacksonquick/Projects/dev-teams/DevTeamsRepo/DevTeamsRepo.csproj",
+        "projectName": "DevTeamsRepo",
+        "projectPath": "/Users/jacksonquick/Projects/dev-teams/DevTeamsRepo/DevTeamsRepo.csproj",
+        "packagesPath": "/Users/jacksonquick/.nuget/packages/",
+        "outputPath": "/Users/jacksonquick/Projects/dev-teams/DevTeamsRepo/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/jacksonquick/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.304/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

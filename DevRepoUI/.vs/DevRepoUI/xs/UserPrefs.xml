@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{92293C40-531B-411F-AF6E-906602F37D09}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../DevTeamsRepo/DevTeamRepo.cs">
+    <Files>
+      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="ProgramUI.cs" Line="1" Column="1" />
+      <File FileName="../DevTeamsRepo/DevRepo.cs" Line="1" Column="1" />
+      <File FileName="../DevTeamsRepo/DevTeam.cs" Line="1" Column="1" />
+      <File FileName="../DevTeamsRepo/DevTeamRepo.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DevRepoUI">
+            <Node name="DevRepoUI" expanded="True">
+              <Node name="ProgramUI.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.DevRepoUI PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
